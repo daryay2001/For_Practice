@@ -26,3 +26,5 @@ print("Hello")
 
 print("Friday")
 
+print("Saturday")
+
