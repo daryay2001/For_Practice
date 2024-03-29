@@ -24,3 +24,5 @@ except Exception as error:
 
 print("Hello")
 
+print("Friday")
+
